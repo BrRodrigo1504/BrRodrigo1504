@@ -1,5 +1,5 @@
 
-Sou um estudante de engenharia informática dedicado e interessado em linguagens de programação. Estou procurando o meu primeiro emprego para poder ingressar no mercado de trabalho e também poder ganhar experiências e aprender cada vez mais sobre a área da tecnologia e programação.
+Sou um estudante de engenharia informática dedicado e interessado em linguagens de programação. Estou procurando o meu primeiro emprego poder ganhar experiências e aprender cada vez mais sobre a área da tecnologia e programação.
 
 Atualmente estou realizando 3 cursos de linguagens de programação do básico ao avançado, um de C, um de Python e um de Java: Especializado em Programação Orientada a Objectos.
 
